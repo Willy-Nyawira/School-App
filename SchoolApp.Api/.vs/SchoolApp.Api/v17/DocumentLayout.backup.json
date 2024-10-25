@@ -1,0 +1,585 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Infrastructure\\Migrations\\20241025063419_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2890B5E-B069-4D20-B5D2-9778C24A86C1}|SchoolApp.Api.csproj|c:\\users\\willy.nyawira\\source\\repos\\schoolapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2890B5E-B069-4D20-B5D2-9778C24A86C1}|SchoolApp.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE696BEE-C39D-4E98-8FD2-C955279ED9CF}|..\\SchoolApp.Infrastructure\\SchoolApp.Infrastructure.csproj|c:\\users\\willy.nyawira\\source\\repos\\schoolapp.infrastructure\\persistence\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F45666-0D14-418C-8B89-E1E243AA2130}|..\\SchoolApp.Domain\\SchoolApp.Domain.csproj|c:\\users\\willy.nyawira\\source\\repos\\schoolapp.domain\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F45666-0D14-418C-8B89-E1E243AA2130}|..\\SchoolApp.Domain\\SchoolApp.Domain.csproj|c:\\users\\willy.nyawira\\source\\repos\\schoolapp.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2890B5E-B069-4D20-B5D2-9778C24A86C1}|SchoolApp.Api.csproj|c:\\users\\willy.nyawira\\source\\repos\\schoolapp.api\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2890B5E-B069-4D20-B5D2-9778C24A86C1}|SchoolApp.Api.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E18695-C1FE-4727-9B9D-C5B34F29969A}|..\\SchoolApp.Application\\SchoolApp.Application.csproj|c:\\users\\willy.nyawira\\source\\repos\\schoolapp.application\\serviceinterfaces\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E18695-C1FE-4727-9B9D-C5B34F29969A}|..\\SchoolApp.Application\\SchoolApp.Application.csproj|c:\\users\\willy.nyawira\\source\\repos\\schoolapp.application\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F45666-0D14-418C-8B89-E1E243AA2130}|..\\SchoolApp.Domain\\SchoolApp.Domain.csproj|c:\\users\\willy.nyawira\\source\\repos\\schoolapp.domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E18695-C1FE-4727-9B9D-C5B34F29969A}|..\\SchoolApp.Application\\SchoolApp.Application.csproj|c:\\users\\willy.nyawira\\source\\repos\\schoolapp.application\\usecases\\enrollstudentincourseusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F45666-0D14-418C-8B89-E1E243AA2130}|..\\SchoolApp.Domain\\SchoolApp.Domain.csproj|c:\\users\\willy.nyawira\\source\\repos\\schoolapp.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F45666-0D14-418C-8B89-E1E243AA2130}|..\\SchoolApp.Domain\\SchoolApp.Domain.csproj|c:\\users\\willy.nyawira\\source\\repos\\schoolapp.domain\\entities\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2890B5E-B069-4D20-B5D2-9778C24A86C1}|SchoolApp.Api.csproj|c:\\users\\willy.nyawira\\source\\repos\\schoolapp.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2890B5E-B069-4D20-B5D2-9778C24A86C1}|SchoolApp.Api.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E18695-C1FE-4727-9B9D-C5B34F29969A}|..\\SchoolApp.Application\\SchoolApp.Application.csproj|c:\\users\\willy.nyawira\\source\\repos\\schoolapp.application\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E18695-C1FE-4727-9B9D-C5B34F29969A}|..\\SchoolApp.Application\\SchoolApp.Application.csproj|c:\\users\\willy.nyawira\\source\\repos\\schoolapp.application\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E18695-C1FE-4727-9B9D-C5B34F29969A}|..\\SchoolApp.Application\\SchoolApp.Application.csproj|c:\\users\\willy.nyawira\\source\\repos\\schoolapp.application\\serviceinterfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F45666-0D14-418C-8B89-E1E243AA2130}|..\\SchoolApp.Domain\\SchoolApp.Domain.csproj|c:\\users\\willy.nyawira\\source\\repos\\schoolapp.domain\\repositoryinterfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E18695-C1FE-4727-9B9D-C5B34F29969A}|..\\SchoolApp.Application\\SchoolApp.Application.csproj|c:\\users\\willy.nyawira\\source\\repos\\schoolapp.application\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2890B5E-B069-4D20-B5D2-9778C24A86C1}|SchoolApp.Api.csproj|c:\\users\\willy.nyawira\\source\\repos\\schoolapp.api\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2890B5E-B069-4D20-B5D2-9778C24A86C1}|SchoolApp.Api.csproj|solutionrelative:controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E18695-C1FE-4727-9B9D-C5B34F29969A}|..\\SchoolApp.Application\\SchoolApp.Application.csproj|c:\\users\\willy.nyawira\\source\\repos\\schoolapp.application\\dtos\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E18695-C1FE-4727-9B9D-C5B34F29969A}|..\\SchoolApp.Application\\SchoolApp.Application.csproj|c:\\users\\willy.nyawira\\source\\repos\\schoolapp.application\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE696BEE-C39D-4E98-8FD2-C955279ED9CF}|..\\SchoolApp.Infrastructure\\SchoolApp.Infrastructure.csproj|c:\\users\\willy.nyawira\\source\\repos\\schoolapp.infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E18695-C1FE-4727-9B9D-C5B34F29969A}|..\\SchoolApp.Application\\SchoolApp.Application.csproj|c:\\users\\willy.nyawira\\source\\repos\\schoolapp.application\\serviceinterfaces\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2890B5E-B069-4D20-B5D2-9778C24A86C1}|SchoolApp.Api.csproj|c:\\users\\willy.nyawira\\source\\repos\\schoolapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2890B5E-B069-4D20-B5D2-9778C24A86C1}|SchoolApp.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE696BEE-C39D-4E98-8FD2-C955279ED9CF}|..\\SchoolApp.Infrastructure\\SchoolApp.Infrastructure.csproj|c:\\users\\willy.nyawira\\source\\repos\\schoolapp.infrastructure\\repositories\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE696BEE-C39D-4E98-8FD2-C955279ED9CF}|..\\SchoolApp.Infrastructure\\SchoolApp.Infrastructure.csproj|c:\\users\\willy.nyawira\\source\\repos\\schoolapp.infrastructure\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F45666-0D14-418C-8B89-E1E243AA2130}|..\\SchoolApp.Domain\\SchoolApp.Domain.csproj|c:\\users\\willy.nyawira\\source\\repos\\schoolapp.domain\\repositoryinterfaces\\ienrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE696BEE-C39D-4E98-8FD2-C955279ED9CF}|..\\SchoolApp.Infrastructure\\SchoolApp.Infrastructure.csproj|c:\\users\\willy.nyawira\\source\\repos\\schoolapp.infrastructure\\repositories\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F45666-0D14-418C-8B89-E1E243AA2130}|..\\SchoolApp.Domain\\SchoolApp.Domain.csproj|c:\\users\\willy.nyawira\\source\\repos\\schoolapp.domain\\repositoryinterfaces\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F45666-0D14-418C-8B89-E1E243AA2130}|..\\SchoolApp.Domain\\SchoolApp.Domain.csproj|c:\\users\\willy.nyawira\\source\\repos\\schoolapp.domain\\repositoryinterfaces\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E18695-C1FE-4727-9B9D-C5B34F29969A}|..\\SchoolApp.Application\\SchoolApp.Application.csproj|c:\\users\\willy.nyawira\\source\\repos\\schoolapp.application\\validation\\pastdateattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E18695-C1FE-4727-9B9D-C5B34F29969A}|..\\SchoolApp.Application\\SchoolApp.Application.csproj|c:\\users\\willy.nyawira\\source\\repos\\schoolapp.application\\usecases\\registerstudentusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E18695-C1FE-4727-9B9D-C5B34F29969A}|..\\SchoolApp.Application\\SchoolApp.Application.csproj|c:\\users\\willy.nyawira\\source\\repos\\schoolapp.application\\schoolapp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F45666-0D14-418C-8B89-E1E243AA2130}|..\\SchoolApp.Domain\\SchoolApp.Domain.csproj|c:\\users\\willy.nyawira\\source\\repos\\schoolapp.domain\\valueobjects\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F45666-0D14-418C-8B89-E1E243AA2130}|..\\SchoolApp.Domain\\SchoolApp.Domain.csproj|c:\\users\\willy.nyawira\\source\\repos\\schoolapp.domain\\valueobjects\\emailaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241025063419_initialcreate.cs",
+              "DocumentMoniker": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Infrastructure\\Migrations\\20241025063419_initialcreate.cs",
+              "RelativeDocumentMoniker": "..\\SchoolApp.Infrastructure\\Migrations\\20241025063419_initialcreate.cs",
+              "ToolTip": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Infrastructure\\Migrations\\20241025063419_initialcreate.cs",
+              "RelativeToolTip": "..\\SchoolApp.Infrastructure\\Migrations\\20241025063419_initialcreate.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T06:34:19.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Domain\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "..\\SchoolApp.Domain\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Domain\\Entities\\Course.cs",
+              "RelativeToolTip": "..\\SchoolApp.Domain\\Entities\\Course.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:39:00.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Domain\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "..\\SchoolApp.Domain\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Domain\\Entities\\Student.cs",
+              "RelativeToolTip": "..\\SchoolApp.Domain\\Entities\\Student.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:34:47.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SchoolDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Infrastructure\\Persistence\\SchoolDbContext.cs",
+              "RelativeDocumentMoniker": "..\\SchoolApp.Infrastructure\\Persistence\\SchoolDbContext.cs",
+              "ToolTip": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Infrastructure\\Persistence\\SchoolDbContext.cs",
+              "RelativeToolTip": "..\\SchoolApp.Infrastructure\\Persistence\\SchoolDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA4wBoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:46:55.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnrollStudentInCourseUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Application\\UseCases\\EnrollStudentInCourseUseCase.cs",
+              "RelativeDocumentMoniker": "..\\SchoolApp.Application\\UseCases\\EnrollStudentInCourseUseCase.cs",
+              "ToolTip": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Application\\UseCases\\EnrollStudentInCourseUseCase.cs",
+              "RelativeToolTip": "..\\SchoolApp.Application\\UseCases\\EnrollStudentInCourseUseCase.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:16:33.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T09:26:25.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Api\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Api\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAMwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:13:14.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Domain\\Entities\\Teacher.cs",
+              "RelativeDocumentMoniker": "..\\SchoolApp.Domain\\Entities\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Domain\\Entities\\Teacher.cs",
+              "RelativeToolTip": "..\\SchoolApp.Domain\\Entities\\Teacher.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:37:24.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Application\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "..\\SchoolApp.Application\\Services\\CourseService.cs",
+              "ToolTip": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Application\\Services\\CourseService.cs",
+              "RelativeToolTip": "..\\SchoolApp.Application\\Services\\CourseService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAMwAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:00:19.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Application\\ServiceInterfaces\\ICourseService.cs",
+              "RelativeDocumentMoniker": "..\\SchoolApp.Application\\ServiceInterfaces\\ICourseService.cs",
+              "ToolTip": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Application\\ServiceInterfaces\\ICourseService.cs",
+              "RelativeToolTip": "..\\SchoolApp.Application\\ServiceInterfaces\\ICourseService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:59:21.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Domain\\Entities\\Entity.cs",
+              "RelativeDocumentMoniker": "..\\SchoolApp.Domain\\Entities\\Entity.cs",
+              "ToolTip": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Domain\\Entities\\Entity.cs",
+              "RelativeToolTip": "..\\SchoolApp.Domain\\Entities\\Entity.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwC0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:54:34.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Application\\DTOs\\StudentDto.cs",
+              "RelativeDocumentMoniker": "..\\SchoolApp.Application\\DTOs\\StudentDto.cs",
+              "ToolTip": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Application\\DTOs\\StudentDto.cs",
+              "RelativeToolTip": "..\\SchoolApp.Application\\DTOs\\StudentDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:36:55.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Application\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "..\\SchoolApp.Application\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Application\\Services\\StudentService.cs",
+              "RelativeToolTip": "..\\SchoolApp.Application\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:26:24.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Domain\\Entities\\Enrollment.cs",
+              "RelativeDocumentMoniker": "..\\SchoolApp.Domain\\Entities\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Domain\\Entities\\Enrollment.cs",
+              "RelativeToolTip": "..\\SchoolApp.Domain\\Entities\\Enrollment.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:40:02.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Api\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Api\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIA9wB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:09:50.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Domain\\RepositoryInterfaces\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "..\\SchoolApp.Domain\\RepositoryInterfaces\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Domain\\RepositoryInterfaces\\IStudentRepository.cs",
+              "RelativeToolTip": "..\\SchoolApp.Domain\\RepositoryInterfaces\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:45:07.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Application\\ServiceInterfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "..\\SchoolApp.Application\\ServiceInterfaces\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Application\\ServiceInterfaces\\IStudentService.cs",
+              "RelativeToolTip": "..\\SchoolApp.Application\\ServiceInterfaces\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:25:46.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CourseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Application\\DTOs\\CourseDto.cs",
+              "RelativeDocumentMoniker": "..\\SchoolApp.Application\\DTOs\\CourseDto.cs",
+              "ToolTip": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Application\\DTOs\\CourseDto.cs",
+              "RelativeToolTip": "..\\SchoolApp.Application\\DTOs\\CourseDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:16:09.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Api\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Api\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "Controllers\\TeacherController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAEwDgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:14:14.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TeacherDto.cs",
+              "DocumentMoniker": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Application\\DTOs\\TeacherDto.cs",
+              "RelativeDocumentMoniker": "..\\SchoolApp.Application\\DTOs\\TeacherDto.cs",
+              "ToolTip": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Application\\DTOs\\TeacherDto.cs",
+              "RelativeToolTip": "..\\SchoolApp.Application\\DTOs\\TeacherDto.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wBoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:15:33.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TeacherService.cs",
+              "DocumentMoniker": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Application\\Services\\TeacherService.cs",
+              "RelativeDocumentMoniker": "..\\SchoolApp.Application\\Services\\TeacherService.cs",
+              "ToolTip": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Application\\Services\\TeacherService.cs",
+              "RelativeToolTip": "..\\SchoolApp.Application\\Services\\TeacherService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAMwAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:02:20.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Infrastructure\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "..\\SchoolApp.Infrastructure\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Infrastructure\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "..\\SchoolApp.Infrastructure\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:54:51.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ITeacherService.cs",
+              "DocumentMoniker": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Application\\ServiceInterfaces\\ITeacherService.cs",
+              "RelativeDocumentMoniker": "..\\SchoolApp.Application\\ServiceInterfaces\\ITeacherService.cs",
+              "ToolTip": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Application\\ServiceInterfaces\\ITeacherService.cs",
+              "RelativeToolTip": "..\\SchoolApp.Application\\ServiceInterfaces\\ITeacherService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwAwAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:58:25.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EnrollmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Infrastructure\\Repositories\\EnrollmentRepository.cs",
+              "RelativeDocumentMoniker": "..\\SchoolApp.Infrastructure\\Repositories\\EnrollmentRepository.cs",
+              "ToolTip": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Infrastructure\\Repositories\\EnrollmentRepository.cs",
+              "RelativeToolTip": "..\\SchoolApp.Infrastructure\\Repositories\\EnrollmentRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:18:49.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:30:18.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Infrastructure\\Repositories\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "..\\SchoolApp.Infrastructure\\Repositories\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Infrastructure\\Repositories\\CourseRepository.cs",
+              "RelativeToolTip": "..\\SchoolApp.Infrastructure\\Repositories\\CourseRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwBgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:02:57.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Infrastructure\\Repositories\\TeacherRepository.cs",
+              "RelativeDocumentMoniker": "..\\SchoolApp.Infrastructure\\Repositories\\TeacherRepository.cs",
+              "ToolTip": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Infrastructure\\Repositories\\TeacherRepository.cs",
+              "RelativeToolTip": "..\\SchoolApp.Infrastructure\\Repositories\\TeacherRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAIBJwCwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:10:53.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Domain\\RepositoryInterfaces\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "..\\SchoolApp.Domain\\RepositoryInterfaces\\ICourseRepository.cs",
+              "ToolTip": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Domain\\RepositoryInterfaces\\ICourseRepository.cs",
+              "RelativeToolTip": "..\\SchoolApp.Domain\\RepositoryInterfaces\\ICourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:47:58.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ITeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Domain\\RepositoryInterfaces\\ITeacherRepository.cs",
+              "RelativeDocumentMoniker": "..\\SchoolApp.Domain\\RepositoryInterfaces\\ITeacherRepository.cs",
+              "ToolTip": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Domain\\RepositoryInterfaces\\ITeacherRepository.cs",
+              "RelativeToolTip": "..\\SchoolApp.Domain\\RepositoryInterfaces\\ITeacherRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:46:43.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IEnrollmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Domain\\RepositoryInterfaces\\IEnrollmentRepository.cs",
+              "RelativeDocumentMoniker": "..\\SchoolApp.Domain\\RepositoryInterfaces\\IEnrollmentRepository.cs",
+              "ToolTip": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Domain\\RepositoryInterfaces\\IEnrollmentRepository.cs",
+              "RelativeToolTip": "..\\SchoolApp.Domain\\RepositoryInterfaces\\IEnrollmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:49:04.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PastDateAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Application\\Validation\\PastDateAttribute.cs",
+              "RelativeDocumentMoniker": "..\\SchoolApp.Application\\Validation\\PastDateAttribute.cs",
+              "ToolTip": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Application\\Validation\\PastDateAttribute.cs",
+              "RelativeToolTip": "..\\SchoolApp.Application\\Validation\\PastDateAttribute.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:41:10.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RegisterStudentUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Application\\UseCases\\RegisterStudentUseCase.cs",
+              "RelativeDocumentMoniker": "..\\SchoolApp.Application\\UseCases\\RegisterStudentUseCase.cs",
+              "ToolTip": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Application\\UseCases\\RegisterStudentUseCase.cs",
+              "RelativeToolTip": "..\\SchoolApp.Application\\UseCases\\RegisterStudentUseCase.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:10:24.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SchoolApp.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Application\\SchoolApp.Application.csproj",
+              "RelativeDocumentMoniker": "..\\SchoolApp.Application\\SchoolApp.Application.csproj",
+              "ToolTip": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Application\\SchoolApp.Application.csproj",
+              "RelativeToolTip": "..\\SchoolApp.Application\\SchoolApp.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T08:09:29.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PhoneNumber.cs",
+              "DocumentMoniker": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Domain\\ValueObjects\\PhoneNumber.cs",
+              "RelativeDocumentMoniker": "..\\SchoolApp.Domain\\ValueObjects\\PhoneNumber.cs",
+              "ToolTip": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Domain\\ValueObjects\\PhoneNumber.cs",
+              "RelativeToolTip": "..\\SchoolApp.Domain\\ValueObjects\\PhoneNumber.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:42:48.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EmailAddress.cs",
+              "DocumentMoniker": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Domain\\ValueObjects\\EmailAddress.cs",
+              "RelativeDocumentMoniker": "..\\SchoolApp.Domain\\ValueObjects\\EmailAddress.cs",
+              "ToolTip": "C:\\Users\\Willy.nyawira\\source\\repos\\SchoolApp.Domain\\ValueObjects\\EmailAddress.cs",
+              "RelativeToolTip": "..\\SchoolApp.Domain\\ValueObjects\\EmailAddress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:41:47.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

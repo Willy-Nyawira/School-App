@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QMhUq0uYtwhHflYg+Uud54VxwSbPnZTrjNmlKsAWzvo=",
+  "Source": "SchoolApp.Api",
+  "BasePath": "_content/SchoolApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

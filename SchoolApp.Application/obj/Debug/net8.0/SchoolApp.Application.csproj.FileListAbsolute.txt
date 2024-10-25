@@ -1,0 +1,15 @@
+C:\Users\Willy.nyawira\source\repos\SchoolApp.Application\bin\Debug\net8.0\SchoolApp.Application.deps.json
+C:\Users\Willy.nyawira\source\repos\SchoolApp.Application\bin\Debug\net8.0\SchoolApp.Application.dll
+C:\Users\Willy.nyawira\source\repos\SchoolApp.Application\bin\Debug\net8.0\SchoolApp.Application.pdb
+C:\Users\Willy.nyawira\source\repos\SchoolApp.Application\bin\Debug\net8.0\SchoolApp.Domain.dll
+C:\Users\Willy.nyawira\source\repos\SchoolApp.Application\bin\Debug\net8.0\SchoolApp.Domain.pdb
+C:\Users\Willy.nyawira\source\repos\SchoolApp.Application\obj\Debug\net8.0\SchoolApp.Application.csproj.AssemblyReference.cache
+C:\Users\Willy.nyawira\source\repos\SchoolApp.Application\obj\Debug\net8.0\SchoolApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willy.nyawira\source\repos\SchoolApp.Application\obj\Debug\net8.0\SchoolApp.Application.AssemblyInfoInputs.cache
+C:\Users\Willy.nyawira\source\repos\SchoolApp.Application\obj\Debug\net8.0\SchoolApp.Application.AssemblyInfo.cs
+C:\Users\Willy.nyawira\source\repos\SchoolApp.Application\obj\Debug\net8.0\SchoolApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\Willy.nyawira\source\repos\SchoolApp.Application\obj\Debug\net8.0\SchoolAp.F19B4AA7.Up2Date
+C:\Users\Willy.nyawira\source\repos\SchoolApp.Application\obj\Debug\net8.0\SchoolApp.Application.dll
+C:\Users\Willy.nyawira\source\repos\SchoolApp.Application\obj\Debug\net8.0\refint\SchoolApp.Application.dll
+C:\Users\Willy.nyawira\source\repos\SchoolApp.Application\obj\Debug\net8.0\SchoolApp.Application.pdb
+C:\Users\Willy.nyawira\source\repos\SchoolApp.Application\obj\Debug\net8.0\ref\SchoolApp.Application.dll

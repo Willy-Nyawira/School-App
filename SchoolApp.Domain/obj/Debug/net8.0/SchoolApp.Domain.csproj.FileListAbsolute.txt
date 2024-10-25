@@ -1,0 +1,11 @@
+C:\Users\Willy.nyawira\source\repos\SchoolApp.Domain\bin\Debug\net8.0\SchoolApp.Domain.deps.json
+C:\Users\Willy.nyawira\source\repos\SchoolApp.Domain\bin\Debug\net8.0\SchoolApp.Domain.dll
+C:\Users\Willy.nyawira\source\repos\SchoolApp.Domain\bin\Debug\net8.0\SchoolApp.Domain.pdb
+C:\Users\Willy.nyawira\source\repos\SchoolApp.Domain\obj\Debug\net8.0\SchoolApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willy.nyawira\source\repos\SchoolApp.Domain\obj\Debug\net8.0\SchoolApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Willy.nyawira\source\repos\SchoolApp.Domain\obj\Debug\net8.0\SchoolApp.Domain.AssemblyInfo.cs
+C:\Users\Willy.nyawira\source\repos\SchoolApp.Domain\obj\Debug\net8.0\SchoolApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Willy.nyawira\source\repos\SchoolApp.Domain\obj\Debug\net8.0\SchoolApp.Domain.dll
+C:\Users\Willy.nyawira\source\repos\SchoolApp.Domain\obj\Debug\net8.0\refint\SchoolApp.Domain.dll
+C:\Users\Willy.nyawira\source\repos\SchoolApp.Domain\obj\Debug\net8.0\SchoolApp.Domain.pdb
+C:\Users\Willy.nyawira\source\repos\SchoolApp.Domain\obj\Debug\net8.0\ref\SchoolApp.Domain.dll
